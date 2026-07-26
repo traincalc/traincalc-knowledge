@@ -1,12 +1,12 @@
 # Existing Page Priorities
 
-Updated: 2026-07-25
+Updated: 2026-07-26
 
 ## P0 — Active work
 
 | Page | Why now | Current issue | Next action | Related task |
 |---|---|---|---|---|
-| Calorie Deficit | Active Bing opportunity with an average-position baseline of 6.25 | Query-level data and deployed changes are not yet recorded | Complete query analysis, document changes, and confirm deployment before measurement | [Calorie Deficit optimization](../tasks/calorie-deficit.md) |
+| Calorie Deficit | Active Bing opportunity with an average-position baseline of 6.25 | A personalized Tati author block and additional safety guards are recorded; query-level data and deployment confirmation are still pending | Complete query analysis, confirm deployment, and define the measurement window before measurement | [Calorie Deficit optimization](../tasks/calorie-deficit.md) |
 
 ## P1 — Next candidates
 

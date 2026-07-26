@@ -3,7 +3,7 @@
 Status: active
 Priority: P0
 Created: 2026-07-25
-Started: pending confirmation
+Started: 2026-07-26
 Completed: —
 Review date: Pending deployment confirmation and measurement-window definition
 
@@ -33,6 +33,7 @@ This is the active first implementation of the Bing-first strategy. The page has
 - Title and meta review and any implemented changes.
 - Query-shaped sections that answer supported search intent.
 - Relevant internal-linking changes.
+- Focused E-E-A-T and safety improvements that support the ranking experiment.
 - Deployment confirmation and a defined measurement window.
 - Separate Bing evaluation and Google guardrail review.
 
@@ -50,6 +51,7 @@ This is the active first implementation of the Bing-first strategy. The page has
 - [ ] Export and record GSC query data and reporting period.
 - [ ] Identify supported query gaps and define focused page changes.
 - [ ] Implement and log title/meta, query-shaped sections, and internal links.
+- [x] Implement and log the approved E-E-A-T and safety improvements.
 - [ ] Confirm production deployment.
 - [ ] Record the measurement window and review date.
 - [ ] Measure Bing primary metric and Google guardrails.
@@ -57,6 +59,7 @@ This is the active first implementation of the Bing-first strategy. The page has
 ## Implementation log
 
 - 2026-07-25: Task record initialized. No query analysis or implementation change is claimed yet.
+- 2026-07-26: Added a personalized Tati author block and additional safety guards to the Calorie Deficit calculator as focused E-E-A-T improvements for the ranking experiment. Production deployment and measurement-window confirmation remain pending.
 
 ## Metrics
 
@@ -91,4 +94,4 @@ Pending measurement. No final experimental status has been assigned.
 
 ## Follow-up
 
-Update this file after query analysis, implementation, deployment, and each material measurement event. Update `NOW.md` only if the next action or active priority changes.
+Confirm production deployment and define the measurement window; then record Bing and Google source metrics for the experiment. Update this file after query analysis, further implementation, deployment, and each material measurement event. Update `NOW.md` only if the next action or active priority changes.
