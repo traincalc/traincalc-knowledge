@@ -14,7 +14,7 @@ Grow revenue by extracting more traffic from proven calculator pages, prioritizi
 
 ## Current priorities
 
-1. Complete Calorie Deficit optimization and establish its measurement baseline.
+1. Read the live Calorie Deficit experiment on August 31 against its top-4 Bing-position criterion.
 2. Improve the highest-priority existing calculator pages after validating their page-level opportunity.
 3. Continue the bounded Pinterest validation experiment and track effort as well as traffic.
 

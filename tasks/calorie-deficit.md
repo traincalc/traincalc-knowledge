@@ -5,7 +5,7 @@ Priority: P0
 Created: 2026-07-25
 Started: 2026-07-26
 Completed: —
-Review date: Pending deployment confirmation and measurement-window definition
+Review date: August 31
 
 ## Objective
 
@@ -13,13 +13,13 @@ Increase qualified Bing traffic to the Calorie Deficit calculator through focuse
 
 ## Context
 
-This is the active first implementation of the Bing-first strategy. The page has a Bing average-position baseline of 6.25. Current clicks, impressions, CTR, exact reporting period, and deployed state have not been supplied and must not be inferred.
+This is the active first implementation of the Bing-first strategy. The experiment is live and registered. Its Bing average-position baseline is 5.88 on July 23. Clicks, impressions, CTR, and Google comparison data have not been supplied and must not be inferred.
 
 ## Baseline
 
 - Source: Bing Webmaster Tools
-- Reporting period: pending confirmation
-- Bing average position: 6.25
+- Read date: July 23
+- Bing average position: 5.88
 - Clicks: pending data import
 - Impressions: pending data import
 - CTR: pending data import
@@ -34,6 +34,7 @@ This is the active first implementation of the Bing-first strategy. The page has
 - Query-shaped sections that answer supported search intent.
 - Relevant internal-linking changes.
 - Focused E-E-A-T and safety improvements that support the ranking experiment.
+- Depth improvements that better satisfy the page's supported search intent.
 - Deployment confirmation and a defined measurement window.
 - Separate Bing evaluation and Google guardrail review.
 
@@ -43,6 +44,7 @@ This is the active first implementation of the Bing-first strategy. The page has
 - Broad guide production.
 - Site-wide SEO changes.
 - New-calculator implementation.
+- Purchased links.
 - Declaring success from rankings alone or before sufficient measurement.
 
 ## Planned work
@@ -52,37 +54,36 @@ This is the active first implementation of the Bing-first strategy. The page has
 - [ ] Identify supported query gaps and define focused page changes.
 - [ ] Implement and log title/meta, query-shaped sections, and internal links.
 - [x] Implement and log the approved E-E-A-T and safety improvements.
-- [ ] Confirm production deployment.
-- [ ] Record the measurement window and review date.
+- [x] Confirm production deployment.
+- [x] Register the measurement window and review date.
 - [ ] Measure Bing primary metric and Google guardrails.
 
 ## Implementation log
 
 - 2026-07-25: Task record initialized. No query analysis or implementation change is claimed yet.
 - 2026-07-26: Added a personalized Tati author block and additional safety guards to the Calorie Deficit calculator as focused E-E-A-T improvements for the ranking experiment. Production deployment and measurement-window confirmation remain pending.
+- July 23: Registered the live experiment with a Bing average-position baseline of 5.88.
+- Registration: Intervention is honest E-E-A-T plus depth improvements. No links were bought.
+- Interim update: Bing average position is 5.82. The source read date was not supplied; this is not the August 31 final evaluation.
 
 ## Metrics
 
-Primary success criterion:
-
-- A sustained, favorable Bing signal after deployment, assessed using average position together with clicks, impressions, and CTR for the documented comparison periods.
+Primary success criterion: Bing average position reaches top 4 at the August 31 read.
 
 Google guardrails:
 
 - No material indexing loss.
 - No unexplained material decline in Google clicks, impressions, or average position over comparable periods.
 
-Measurement window:
-
-- Starts only after deployment is confirmed; duration and comparison period are pending confirmation.
+Measurement window: July 23 baseline; August 31 read.
 
 ## Result
 
-Pending measurement. Do not enter results until deployment and sufficient source data are confirmed.
+Interim Bing average position: 5.82 (source read date not supplied). Final evaluation remains pending the August 31 read.
 
 ## Conclusion
 
-Pending measurement.
+Pending the August 31 read.
 
 ## Lessons
 
@@ -90,8 +91,8 @@ Pending measurement. Do not promote observations to reusable lessons without sup
 
 ## Decision
 
-Pending measurement. No final experimental status has been assigned.
+If the page is not top 4 on August 31, test a support-content cluster next. Only if that lever also fails should authority/links return to consideration.
 
 ## Follow-up
 
-Confirm production deployment and define the measurement window; then record Bing and Google source metrics for the experiment. Update this file after query analysis, further implementation, deployment, and each material measurement event. Update `NOW.md` only if the next action or active priority changes.
+Record the August 31 Bing result against the top-4 criterion. If it fails, scope the support-content-cluster experiment; do not pursue authority or link acquisition first.

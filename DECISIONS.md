@@ -179,3 +179,33 @@ Four manual weekly reviews are complete and a repeated, material maintenance pro
 ### Superseded by
 
 —
+
+## DEC-007 — Sequence levers for the Calorie Deficit Bing experiment
+
+Date: Registration date not supplied
+Status: active
+
+### Decision
+
+Evaluate the live honest E-E-A-T plus depth intervention without purchased links. Success is a top-4 Bing average position at the August 31 read.
+
+### Reason
+
+The experiment is intended to determine whether page quality and depth can improve the existing Bing opportunity before escalating to support content or authority work.
+
+### Evidence
+
+- Bing average-position baseline: 5.88 on July 23.
+- Latest supplied interim Bing average position: 5.82; source read date not supplied.
+
+### Consequences
+
+If the August 31 result is not top 4, test a support-content cluster next. Reconsider authority or links only if that subsequent lever also fails.
+
+### Revisit when
+
+The August 31 read is recorded, or the support-content-cluster test has a measured result.
+
+### Superseded by
+
+—

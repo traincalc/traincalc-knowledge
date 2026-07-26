@@ -41,7 +41,7 @@ Data freshness: Initial seeded snapshot. Values marked approximately were suppli
 
 | Experiment | Primary metric | Baseline | Review date |
 |---|---|---:|---|
-| Calorie Deficit Bing optimization | Bing average position | 6.25 | Pending deployment and measurement-window confirmation |
+| Calorie Deficit Bing optimization | Bing average position | 5.88 on July 23; latest interim position 5.82 | August 31 |
 | Pinterest validation | Outbound clicks and sessions per production time | Six current pins reported; supplied in-platform stat totals: 258, 1, 23 (labels/window pending) | Pending first weekly data |
 
 ## Data notes
@@ -51,3 +51,4 @@ Data freshness: Initial seeded snapshot. Values marked approximately were suppli
 - Google visibility is described as unstable; no current aggregate click value has been supplied.
 - Do not mix these monthly values with weekly reviews without clearly stating the period.
 - Pinterest supplied a current six-pin snapshot on 2026-07-26. The three in-platform statistic labels, reporting window, production time, and analytics sessions were not supplied; no traffic or outcome conclusion is claimed.
+- Calorie Deficit's latest supplied interim Bing average position is 5.82; its source read date was not supplied, and the August 31 experiment outcome remains pending.
