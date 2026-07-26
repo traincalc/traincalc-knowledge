@@ -1,6 +1,6 @@
 # TrainCalc Current Statistics
 
-Snapshot date: 2026-07-25
+Snapshot date: 2026-07-26
 Comparison period: No verified prior-period snapshot recorded yet.
 Data freshness: Initial seeded snapshot. Values marked approximately were supplied as current context and require source verification before trend analysis.
 
@@ -42,7 +42,7 @@ Data freshness: Initial seeded snapshot. Values marked approximately were suppli
 | Experiment | Primary metric | Baseline | Review date |
 |---|---|---:|---|
 | Calorie Deficit Bing optimization | Bing average position | 6.25 | Pending deployment and measurement-window confirmation |
-| Pinterest validation | Outbound clicks and sessions per production time | Pending baseline | Pending first weekly data |
+| Pinterest validation | Outbound clicks and sessions per production time | Six current pins reported; supplied in-platform stat totals: 258, 1, 23 (labels/window pending) | Pending first weekly data |
 
 ## Data notes
 
@@ -50,3 +50,4 @@ Data freshness: Initial seeded snapshot. Values marked approximately were suppli
 - Engagement is approximately 55–63%; its exact definition and reporting period need verification before it is used in comparisons.
 - Google visibility is described as unstable; no current aggregate click value has been supplied.
 - Do not mix these monthly values with weekly reviews without clearly stating the period.
+- Pinterest supplied a current six-pin snapshot on 2026-07-26. The three in-platform statistic labels, reporting window, production time, and analytics sessions were not supplied; no traffic or outcome conclusion is claimed.
