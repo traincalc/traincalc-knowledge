@@ -1,6 +1,6 @@
 # TrainCalc Current State
 
-Updated: 2026-07-26
+Updated: 2026-07-27
 
 ## Current objective
 
@@ -30,6 +30,10 @@ Lifecycle: Implementation → Measurement → Evaluation → Completed.
 ## Existing pages to improve
 
 See [page priorities](pages/priorities.md).
+
+## Recently completed
+
+- [Walking Calculator optimization](tasks/walking-calculator.md) — completed 2026-07-27; measure search performance before adding more content.
 
 ## Latest weekly review
 

@@ -1,6 +1,6 @@
 # Existing Page Priorities
 
-Updated: 2026-07-26
+Updated: 2026-07-27
 
 ## P0 — Active work
 
@@ -12,7 +12,6 @@ Updated: 2026-07-26
 
 | Page | Evidence | Opportunity | Trigger |
 |---|---|---|---|
-| Calories Burned Walking | Adjacent calories cluster; named initial candidate | Validate page/query performance for a focused existing-page improvement | Calorie Deficit work is deployed and reviewed, or priorities are consciously reprioritized. |
 | MET Values | Supports the calories and energy-expenditure cluster | Validate traffic, query intent, and internal-linking role | Verified page-level data identifies a concrete issue or opportunity. |
 | Steps to Calories | Narrow calculator intent and cluster fit | Validate performance and potential link path from related pages | Verified page-level data identifies a concrete issue or opportunity. |
 
@@ -26,6 +25,12 @@ Updated: 2026-07-26
 | Cycling Calories | Initial candidate with activity-calorie fit; no verified page-level signal recorded | After P1 data review |
 | StairMaster Calories | Initial candidate with narrow calculator intent; no verified page-level signal recorded | After P1 data review |
 | Swimming Calories | Initial candidate with activity-calorie fit; no verified page-level signal recorded | After P1 data review |
+
+## Recently completed
+
+| Page | Completed | Outcome | Next action | Related task |
+|---|---|---|---|---|
+| Calories Burned Walking | 2026-07-27 | Added targeted long-tail content, improved the related-calculator cluster, and fixed one UX issue; no major rewrite was needed | Measure search performance before expanding content further | [Walking Calculator optimization](../tasks/walking-calculator.md) |
 
 ## Ignored for now
 
