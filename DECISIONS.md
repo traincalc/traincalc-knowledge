@@ -19,7 +19,7 @@ Bing is already a material source of revenue and may offer opportunities that do
 
 - Approximately 48% of current revenue is attributed to Bing.
 - DR is approximately 2.
-- Calorie Deficit has a recorded Bing average-position baseline of 6.25.
+- Calorie Deficit's official Bing average-position baseline is 5.82.
 
 ### Consequences
 
@@ -195,8 +195,7 @@ The experiment is intended to determine whether page quality and depth can impro
 
 ### Evidence
 
-- Bing average-position baseline: 5.88 on July 23.
-- Latest supplied interim Bing average position: 5.82; source read date not supplied.
+- Official Bing average-position baseline: 5.82.
 
 ### Consequences
 

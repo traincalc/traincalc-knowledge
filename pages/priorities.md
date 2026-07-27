@@ -6,7 +6,7 @@ Updated: 2026-07-26
 
 | Page | Why now | Current issue | Next action | Related task |
 |---|---|---|---|---|
-| Calorie Deficit | Active Bing opportunity with an average-position baseline of 6.25 | A personalized Tati author block and additional safety guards are recorded; query-level data and deployment confirmation are still pending | Complete query analysis, confirm deployment, and define the measurement window before measurement | [Calorie Deficit optimization](../tasks/calorie-deficit.md) |
+| Calorie Deficit | Measurement-phase Bing opportunity with an average-position baseline of 5.82 | The focused E-E-A-T and safety improvements were deployed on 2026-07-26; query-level data remains pending | Record query data and measure against the August 31 read | [Calorie Deficit optimization](../tasks/calorie-deficit.md) |
 
 ## P1 — Next candidates
 

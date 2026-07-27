@@ -1,54 +1,25 @@
 # TrainCalc Current Statistics
 
 Snapshot date: 2026-07-26
-Comparison period: No verified prior-period snapshot recorded yet.
-Data freshness: Initial seeded snapshot. Values marked approximately were supplied as current context and require source verification before trend analysis.
+Data freshness: Latest verified operational snapshot. No verified aggregate business, channel, authority, or page-level export has been supplied, so unverified seeded estimates are intentionally excluded.
 
-## Business metrics
+## Experiment metrics
 
-| Metric | Current | Previous period | Change |
-|---|---:|---:|---:|
-| Monthly revenue | Approximately $114 | — | — |
-| Monthly sessions | Approximately 16.7K | — | — |
-| RPM | Approximately $6.82 | — | — |
-| US revenue share | Approximately 91% | — | — |
+| Experiment | Phase | Metric | Latest verified value | As of |
+|---|---|---|---:|---|
+| Calorie Deficit Bing optimization | Measurement | Bing average-position baseline | 5.82 | 2026-07-26 |
+| Pinterest validation | Implementation | Current pins reported | 6 | 2026-07-26 |
 
-## Acquisition
+## Experiment milestones
 
-| Channel | Current | Previous | Change |
-|---|---:|---:|---:|
-| Google clicks | Pending verified data | — | — |
-| Bing clicks | Pending verified data | — | — |
-| Bing revenue share | Approximately 48% | — | — |
-| Pinterest sessions | Pending verified data | — | — |
-| Direct / other | Pending verified data | — | — |
-
-## SEO authority
-
-| Metric | Current |
-|---|---:|
-| DR | Approximately 2 |
-| Referring domains | Pending verified data |
-| Backlinks | Pending verified data |
-
-## Top pages
-
-| Page | Sessions | Revenue | Google clicks | Bing clicks |
-|---|---:|---:|---:|---:|
-| Pending verified page-level data | — | — | — | — |
-
-## Active experiment baselines
-
-| Experiment | Primary metric | Baseline | Review date |
-|---|---|---:|---|
-| Calorie Deficit Bing optimization | Bing average position | 5.88 on July 23; latest interim position 5.82 | August 31 |
-| Pinterest validation | Outbound clicks and sessions per production time | Six current pins reported; supplied in-platform stat totals: 258, 1, 23 (labels/window pending) | Pending first weekly data |
+| Experiment | Deployment completed | Measurement started | Evaluation date | Current status |
+|---|---|---|---|---|
+| Calorie Deficit Bing optimization | 2026-07-26 | 2026-07-26 | August 31 | Measurement in progress |
+| Pinterest validation | — | — | Pending a defined measurement window | Implementation in progress |
 
 ## Data notes
 
-- Monthly revenue, sessions, RPM, US revenue share, Bing revenue share, and DR are approximate initial context, not a source-exported reporting snapshot.
-- Engagement is approximately 55–63%; its exact definition and reporting period need verification before it is used in comparisons.
-- Google visibility is described as unstable; no current aggregate click value has been supplied.
-- Do not mix these monthly values with weekly reviews without clearly stating the period.
-- Pinterest supplied a current six-pin snapshot on 2026-07-26. The three in-platform statistic labels, reporting window, production time, and analytics sessions were not supplied; no traffic or outcome conclusion is claimed.
-- Calorie Deficit's latest supplied interim Bing average position is 5.82; its source read date was not supplied, and the August 31 experiment outcome remains pending.
+- The Calorie Deficit official baseline is 5.82. It is the only baseline used for this experiment.
+- The Calorie Deficit page was deployed on 2026-07-26; its measurement phase began that day. No outcome is claimed before the August 31 evaluation.
+- Pinterest's supplied six-pin snapshot has no confirmed reporting window, field labels, production-time record, or analytics-session data. It remains in Implementation, not Measurement.
+- Add the next snapshot only when source-verified metrics are available; replace this snapshot rather than retaining prior current-statistics snapshots.

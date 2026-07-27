@@ -1,6 +1,6 @@
 # Guest Posts
 
-Track all purchased/editorial guest posts.
+Single source of truth for all purchased guest posts. Editorial opportunities without a purchase are not tracked here.
 
 | Date | Site | DR | Traffic | Cost | Target Page | Anchor | Indexed | Live | Notes | ROI |
 |------|------|---:|---------|-----:|-------------|--------|---------|------|-------|-----|

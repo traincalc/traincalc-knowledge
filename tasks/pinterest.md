@@ -1,6 +1,6 @@
 # Task — Pinterest validation
 
-Status: active
+Phase: Implementation
 Priority: P2
 Created: 2026-07-25
 Started: 2026-07-26

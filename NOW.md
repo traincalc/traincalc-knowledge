@@ -1,6 +1,6 @@
 # TrainCalc Current State
 
-Updated: 2026-07-25
+Updated: 2026-07-26
 
 ## Current objective
 
@@ -18,19 +18,18 @@ Grow revenue by extracting more traffic from proven calculator pages, prioritizi
 2. Improve the highest-priority existing calculator pages after validating their page-level opportunity.
 3. Continue the bounded Pinterest validation experiment and track effort as well as traffic.
 
-## Active tasks
+## Current experiment phases
 
-- [Calorie Deficit optimization](tasks/calorie-deficit.md)
-- [Pinterest validation](tasks/pinterest.md)
+Lifecycle: Implementation → Measurement → Evaluation → Completed.
+
+| Experiment | Phase | Next transition |
+|---|---|---|
+| [Calorie Deficit optimization](tasks/calorie-deficit.md) | Measurement | Evaluation after the August 31 read |
+| [Pinterest validation](tasks/pinterest.md) | Implementation | Measurement after metric labels, reporting window, and production time are recorded |
 
 ## Existing pages to improve
 
 See [page priorities](pages/priorities.md).
-
-## Active experiments
-
-- Calorie Deficit Bing optimization
-- Pinterest acquisition channel
 
 ## Latest weekly review
 
