@@ -15,17 +15,19 @@ Increase qualified Bing traffic to the Calorie Deficit calculator through focuse
 
 ## Context
 
-This is the first Measurement-phase implementation of the Bing-first strategy. The experiment was deployed on 2026-07-26 and measurement started that day. Its official Bing average-position baseline is 5.82. Clicks, impressions, CTR, and Google comparison data have not been supplied and must not be inferred.
+This is the first Measurement-phase implementation of the Bing-first strategy. The experiment was deployed on 2026-07-26 and measurement started that day. The current supplied Bing baseline is an average position of 5.59 for the last 30 days; the GSC guardrail baseline is 16.1 for the last 28 days. Clicks, impressions, and CTR have not been supplied and must not be inferred.
 
 ## Baseline
 
 - Source: Bing Webmaster Tools
-- Baseline read date: 2026-07-26
-- Bing average position: 5.82
+- Baseline read date: 2026-07-27
+- Bing reporting period: last 30 days
+- Bing average position: 5.59
 - Clicks: pending data import
 - Impressions: pending data import
 - CTR: pending data import
-- Google baseline: pending data import
+- GSC reporting period: last 28 days
+- GSC average position: 16.1
 
 ## Scope
 
@@ -64,7 +66,8 @@ This is the first Measurement-phase implementation of the Bing-first strategy. T
 
 - 2026-07-25: Task record initialized. No query analysis or implementation change is claimed yet.
 - 2026-07-26: Added a personalized Tati author block and additional safety guards to the Calorie Deficit calculator as focused E-E-A-T improvements for the ranking experiment; production deployment was completed and measurement started.
-- 2026-07-26: Registered the experiment with the official Bing average-position baseline of 5.82.
+- 2026-07-26: Registered the experiment with the initial supplied Bing average-position baseline of 5.82.
+- 2026-07-27: Recorded the current supplied baselines: Bing average position 5.59 (last 30 days) and GSC average position 16.1 (last 28 days).
 - Registration: Intervention is honest E-E-A-T plus depth improvements. No links were bought.
 
 ## Metrics
@@ -80,7 +83,7 @@ Measurement window: 2026-07-26 through the August 31 read.
 
 ## Result
 
-The Measurement phase is in progress. The official baseline is 5.82; final evaluation remains pending the August 31 read.
+The Measurement phase is in progress. The current Bing baseline is 5.59 (last 30 days); final evaluation remains pending the August 31 read.
 
 ## Conclusion
 
