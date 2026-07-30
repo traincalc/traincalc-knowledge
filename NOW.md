@@ -1,6 +1,6 @@
 # TrainCalc Current State
 
-Updated: 2026-07-27
+Updated: 2026-07-29
 
 ## Current objective
 
@@ -33,6 +33,7 @@ See [page priorities](pages/priorities.md).
 
 ## Recently completed
 
+- Boxing Calories calculator — released 2026-07-29; no performance conclusion recorded yet.
 - [Walking Calculator optimization](tasks/walking-calculator.md) — completed 2026-07-27; measure search performance before adding more content.
 
 ## Latest weekly review

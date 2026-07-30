@@ -10,7 +10,7 @@ Source: activity-calculator opportunity list supplied 2026-07-28. This is an int
 |---:|---|---|---|---|---|
 | 1 | Basketball Calories | Sports | Highest ROI | candidate | Validate demand and relevant MET rows. |
 | 2 | Soccer Calories | Sports | Highest ROI | candidate | Validate demand and relevant MET rows. |
-| 3 | Boxing Calories | Sports | Highest ROI | candidate | Validate distinction from Shadow Boxing and relevant MET rows. |
+| 3 | Boxing Calories | Sports | Highest ROI | released 2026-07-29 | Released. Search demand, cannibalization, and performance remain unverified. |
 | 4 | Push-up Calories | Exercise / gym | High | candidate | Validate demand and relevant MET rows. |
 | 5 | Kayaking Calories | Water sports | Very high | candidate | Validate demand and relevant MET rows. |
 | 6 | Dog Walking Calories | Walking | High | candidate | Assess cannibalization with Walking Calculator. |
